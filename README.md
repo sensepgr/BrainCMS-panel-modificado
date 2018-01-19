@@ -1,2 +1,2 @@
 Painel admin do BrainCMS modificado
-V1
+V1S
